@@ -1,5 +1,9 @@
 # 💫 About Me:
-Software Engineer with 3+ years of experience at a product-based company, building production React.js applications and specializing<br>in reusable component architecture and enterprise data-heavy UIs using DevExtreme. Skilled in leveraging AI-assisted development<br>tools (Claude, ChatGPT, Cursor) to accelerate delivery and improve productivity. Experienced with REST API integration and backend<br>service consumption; actively expanding full-stack capability through hands-on Spring Boot development (REST APIs, Spring Data JPA,<br>Spring Security) and relational databases. Comfortable owning features end-to-end, with a strong foundation in Agile delivery.
+Software Engineer with 3+ years of experience at a product-based company, building production React.js applications and specializing
+in reusable component architecture and enterprise data-heavy UIs using DevExtreme. Skilled in leveraging AI-assisted development
+tools (Claude, ChatGPT, Cursor) to accelerate delivery and improve productivity. Experienced with REST API integration and backend
+service consumption; expanded full-stack expertise through hands-on Spring Boot development (REST APIs, Spring Data JPA, Spring
+Security) and relational databases. Comfortable owning features end-to-end, with a strong foundation in Agile delivery.
 
 
 ## 🌐 Socials:
